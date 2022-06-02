@@ -15,4 +15,4 @@ bot.remove_command('help')
 
 bot.add_cog(music_cog(bot))
 
-bot.run("OTU4MTQ4NTYyOTEzNDkzMDcy.YkJHYg.wAfJ73dsvPvxWL282j5JksYtmL8")
+bot.run("TOKEN HERE")
